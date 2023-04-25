@@ -5,6 +5,11 @@ Added places will appear as a list on the main screen , they will be able open t
 
 ![menu](https://user-images.githubusercontent.com/114510746/234222302-2c73307b-2db9-4829-9f53-abe3e8b412b5.png)--> main menu
 
+![savedLoc](https://user-images.githubusercontent.com/114510746/234222985-13987d14-1069-4f51-860e-cb3365ba2cdd.png)--> saved location
+
+![newLoc](https://user-images.githubusercontent.com/114510746/234223063-11303c14-f69c-4917-a4ee-1c4bbfc144d2.png)--> add new location
+
+
 
 
 
