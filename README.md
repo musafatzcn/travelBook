@@ -4,10 +4,6 @@ Added places will appear as a list on the main screen , they will be able open t
 #Locations will be saved in coredata.
 
 
-
-
-
-
 ![app](https://user-images.githubusercontent.com/114510746/234226810-637b9722-6ab0-45de-897b-551f023a2f5c.png)
 
 
