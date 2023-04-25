@@ -6,5 +6,5 @@ Added places will appear as a list on the main screen , they will be able open t
 
 
 
-![mainMenu](https://user-images.githubusercontent.com/114510746/234220672-0b30d5ea-013a-497a-8999-976d0f4dc636.png)
+![mainMenu](https://user-images.githubusercontent.com/114510746/234220672-0b30d5ea-013a-497a-8999-976d0f4dc636.png)--> main menu
 
