@@ -3,8 +3,8 @@
 Added places will appear as a list on the main screen , they will be able open that place in the navigation and go there by the way they choose.
 #Locations will be saved in coredata.
 
+![menu](https://user-images.githubusercontent.com/114510746/234222302-2c73307b-2db9-4829-9f53-abe3e8b412b5.png)--> main menu
 
-![mainMenu](https://user-images.githubusercontent.com/114510746/234220672-0b30d5ea-013a-497a-8999-976d0f4dc636.png)--> main menu ![savedLocation](https://user-images.githubusercontent.com/114510746/234221126-5d000aa0-a981-41a9-a2a5-40fab355d313.png)--> saved location  ![newSave](https://user-images.githubusercontent.com/114510746/234221214-dca7d77c-3273-437d-bb94-31919a02bb16.png)--> add new location
 
 
 
